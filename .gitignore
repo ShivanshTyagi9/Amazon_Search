@@ -1,0 +1,9 @@
+/data/
+/in_memory_vdb/
+/superlinked_app/__pycache__/
+/tools/__pycache__/
+/tools/create_consine_similarity_plot.py
+.env
+test.py
+
+
