@@ -1,0 +1,19 @@
+name: amazon-search
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - tqdm
+  - streamlit
+  - zstandard
+  - pymongo
+  - requests
+  - pip
+  - pip:
+      - loguru
+      - pydantic
+      - pydantic-settings
+      - superlinked==17.1.0

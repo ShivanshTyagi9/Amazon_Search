@@ -1,0 +1,11 @@
+numpy
+pandas
+tqdm
+streamlit
+zstandard
+pymongo
+requests
+loguru
+pydantic
+pydantic-settings
+superlinked==17.1.0
