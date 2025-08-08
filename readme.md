@@ -2,6 +2,8 @@
   <h1>Amazon Semantic Search</h1>
 </div>
 
+## ⚙️ System Architecture
+
 <p align="center">
   <img src="assets/Amazon-Search.png" alt="architecture_1" width="600">
 </p>
